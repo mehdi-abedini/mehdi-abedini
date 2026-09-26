@@ -1,8 +1,8 @@
 # Mehdi Abedini Najafabadi
 
-**Assistant Professor & Postdoctoral Researcher in Nanotechnology and Biomedical Engineering · CEO, Kian Nano Karno**
+**Researcher · Entrepreneur · Founder & CEO, Kian Nano Karno**
 
-Researcher, engineer, and technology developer working across scientific AI, nanotechnology, biomedical engineering, advanced instrumentation, and translational R&D.
+Researcher and technology entrepreneur working across nanotechnology and advanced nanomaterials, biomedical engineering and smart drug delivery, scientific AI and research systems, bioinformatics, genomics and NGS, advanced instrumentation and sensing, industrial R&D and process engineering, and technology intelligence, intellectual property, and translational R&D.
 
 ## Research & Technology Profile
 
