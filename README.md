@@ -1,12 +1,12 @@
 # Mehdi Abedini Najafabadi
 
-**Researcher · Nanotechnology & Biomedical Engineering · CEO, Kian Nano Karno**
+**Assistant Professor & Postdoctoral Researcher in Nanotechnology and Biomedical Engineering · CEO, Kian Nano Karno**
 
 Researcher, engineer, and technology developer working across scientific AI, nanotechnology, biomedical engineering, advanced instrumentation, and translational R&D.
 
 ## Research & Technology Profile
 
-My work integrates scientific research, engineering, AI, and technology development to move research concepts toward **reproducible, testable, and deployment-oriented solutions**.
+My work integrates scientific research, engineering, AI, and technology development to move research concepts toward **reproducible, testable, evidence-grounded, and deployment-oriented solutions**.
 
 ### Core Areas
 
@@ -18,15 +18,24 @@ My work integrates scientific research, engineering, AI, and technology developm
 - Industrial R&D, process engineering, scale-up, and technology deployment
 - Technology intelligence, intellectual property, and applied innovation
 
-## Current R&D Focus
+## Kian Nano Karno AI OS — KHWARIZMI
 
-- Evidence-grounded scientific research and research automation
-- Multi-project AI orchestration and governed agent ecosystems
-- Biomedical and life-science applications
-- Advanced materials and instrumentation
-- Industrial technology development and scale-up
-- Petroleum, energy, process, and environmental technology
-- Patent-aware technology development and translational research
+The **Kian Nano Karno AI OS** is being developed under the system identity **KHWARIZMI AI OS**: a human-governed operating architecture for knowledge, reasoning, orchestration, verification, execution preparation, and organizational learning.
+
+Its scientific heritage architecture uses six documented scientific figures as methodological references:
+
+| Identity | Architectural principle |
+|---|---|
+| **Khwarizmi** | Computation, algorithms, and orchestration |
+| **Biruni** | Observation, measurement, and evidence |
+| **Avicenna** | Knowledge synthesis and reasoning |
+| **Razi** | Experimentation, validation, and falsification |
+| **Khayyam** | Mathematical modeling, time, and uncertainty |
+| **Tusi** | Systems integration and scientific coordination |
+
+These names are architectural references, not default agent identities. The governing principle is: **no name without a capability; no capability without evidence; no attribution without historical justification.**
+
+Technical governance remains defined by **Architecture Contract v1.0**.
 
 ## Kian Nano Karno
 
@@ -49,6 +58,8 @@ Research Agent: https://github.com/mehdi-abedini/kian-nano
 ## Research Principles
 
 - Evidence before assertion
+- Problem before agent
+- Capability before tool selection
 - Reproducibility before convenience
 - Verification before completion
 - Explicit uncertainty and applicability boundaries
