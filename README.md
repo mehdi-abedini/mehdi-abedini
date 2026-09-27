@@ -18,6 +18,16 @@ My work integrates scientific research, engineering, AI, and technology developm
 - Industrial R&D, process engineering, scale-up, and technology deployment
 - Technology intelligence, intellectual property, and applied innovation
 
+## BionicPath — Rehabilitation Technology
+
+**BionicPath** is the Android application layer for an elbow-joint rehabilitation device developed within the Kian Nano Karno research and engineering ecosystem.
+
+The current software baseline covers Bluetooth Classic/HC-05 communication, device command and feedback handling, rehabilitation programs, patient calibration, training sessions, local data persistence, progress visualization, and research-oriented data export.
+
+Repository: https://github.com/Kian-Academy/BionicPath
+
+The BionicPath repository is maintained as a **private canonical source repository**. Public research and thesis references should use versioned releases or immutable commits rather than reproducing the complete source code.
+
 ## Kian Nano Karno AI OS — KHWARIZMI
 
 The **Kian Nano Karno AI OS** is being developed under the system identity **KHWARIZMI AI OS**: a human-governed operating architecture for knowledge, reasoning, orchestration, verification, execution preparation, and organizational learning.
