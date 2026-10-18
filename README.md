@@ -1,8 +1,8 @@
 # Mehdi Abedini Najafabadi
 
-**Researcher · Entrepreneur · Founder & CEO, Kian Nano Karno**
+**Researcher · Technology Entrepreneur · Founder & CEO, Kian Nano Karno · AI & Research Systems Architect**
 
-Researcher and technology entrepreneur working across nanotechnology and advanced nanomaterials, biomedical engineering and smart drug delivery, scientific AI and research systems, bioinformatics, genomics and NGS, advanced instrumentation and sensing, industrial R&D and process engineering, and technology intelligence, intellectual property, and translational R&D.
+Researcher and technology entrepreneur working across nanotechnology and advanced nanomaterials, biomedical engineering and smart drug delivery, scientific AI and research systems, bioinformatics, genomics and NGS, advanced instrumentation and sensing, industrial R&D and process engineering, technology intelligence, intellectual property, and translational R&D.
 
 ## Research & Technology Profile
 
@@ -17,16 +17,7 @@ My work integrates scientific research, engineering, AI, and technology developm
 - Advanced instrumentation, measurement, and sensing systems
 - Industrial R&D, process engineering, scale-up, and technology deployment
 - Technology intelligence, intellectual property, and applied innovation
-
-## BionicPath — Rehabilitation Technology
-
-**BionicPath** is the Android application layer for an elbow-joint rehabilitation device developed within the Kian Nano Karno research and engineering ecosystem.
-
-The current software baseline covers Bluetooth Classic/HC-05 communication, device command and feedback handling, rehabilitation programs, patient calibration, training sessions, local data persistence, progress visualization, and research-oriented data export.
-
-Repository: https://github.com/Kian-Academy/BionicPath
-
-The BionicPath repository is maintained as a **private canonical source repository**. Public research and thesis references should use versioned releases or immutable commits rather than reproducing the complete source code.
+- AI-native software architecture and cross-platform product engineering
 
 ## Kian Nano Karno AI OS — KHWARIZMI
 
@@ -47,6 +38,33 @@ These names are architectural references, not default agent identities. The gove
 
 Technical governance remains defined by **Architecture Contract v1.0**.
 
+## AI-Native Software Engineering
+
+A parallel engineering focus is the development of reliable AI-native applications and platform infrastructure with contract-driven architecture, explicit phase gates, traceability, security, privacy, observability, and reproducible validation.
+
+### Kian AI Client Platforms
+
+- **Android** — Kotlin, Jetpack Compose, native Android lifecycle and platform integration
+- **iOS** — Swift, SwiftUI, native Apple platform integration; currently in planning / environment hold pending macOS/Xcode availability
+- Shared backend/domain contracts across clients
+- Authentication and session management
+- Conversations, runs, approvals and artifacts
+- Synchronization, SSE/event flows and idempotency
+- Notifications and device identity
+- Security, privacy, audit and observability
+
+Repository: https://github.com/Kian-Academy/kian-ai-ios
+
+## BionicPath — Rehabilitation Technology
+
+**BionicPath** is the Android application layer for an elbow-joint rehabilitation device developed within the Kian Nano Karno research and engineering ecosystem.
+
+The current software baseline covers Bluetooth Classic/HC-05 communication, device command and feedback handling, rehabilitation programs, patient calibration, training sessions, local data persistence, progress visualization, and research-oriented data export.
+
+Repository: https://github.com/Kian-Academy/BionicPath
+
+The BionicPath repository is maintained as a **private canonical source repository**. Public research and thesis references should use versioned releases or immutable commits rather than reproducing the complete source code.
+
 ## Kian Nano Karno
 
 **Kian Nano Karno** is the industrial research and technology-development organization through which applied work is translated into engineering solutions, products, instrumentation, and deployable technologies.
@@ -65,13 +83,20 @@ Selected public work includes the **Kian Nano Karno Research Agent**, an evidenc
 
 Research Agent: https://github.com/mehdi-abedini/kian-nano
 
-## Research Principles
+## Engineering Principles
 
 - Evidence before assertion
 - Problem before agent
 - Capability before tool selection
+- Contract before implementation
 - Reproducibility before convenience
 - Verification before completion
 - Explicit uncertainty and applicability boundaries
 - Human governance for consequential decisions
+- Security and privacy by design
+- Traceability from requirement to implementation and validation
 - Separation of public research infrastructure from confidential R&D
+
+## Collaboration
+
+Open to focused technical and research collaboration around scientific AI, AI-native product engineering, research agents, agentic systems, application architecture, advanced R&D, and reliable cross-platform implementation.
